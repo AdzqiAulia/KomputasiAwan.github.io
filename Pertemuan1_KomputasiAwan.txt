@@ -1,0 +1,56 @@
+Ip versi 4 / IPv4
+
+dibagi menjadi 2 yaitu 
+1. private
+A. 10.0.0.0/8
+   255.0.0.0
+B. 172.16-31.0.0, 172.20.1.1/16
+   255.255.0.0
+C. 192.168.68.0/24
+255.255.255.0
+
+2. public
+
+
+
+
+
+kelas yaitu :
+A. 1 - 126
+B. 128 - 191
+C. 192 - 223
+
+127 karena sudah dipakai lookback abdes terdaftar
+
+128 64 32 16 8 4 2 1 
+
+Mbps/megabit per second = kecepatan
+MBps/megabyte per second = kapasitas
+
+Mbps = Mega bit per second.
+KBps = Kilo Byte per second.
+Kbps = Kilo bit per second
+B = byte.
+b = bit
+1 byte = 8 bit.
+
+1 Byte (B) = 8 bit.
+1 Kilobyte (KB) = 1024 byte.
+1 Megabyte (MB) = 1024 Kilobyte.
+
+
+192.168.2.1/24 network berbeda 
+192.168.1.2/24
+
+cross perangkat yang sama
+strike berbeda perangkat
+
+Fa adalah FastEthernet
+Fa = 100Mbps
+GbE = 1000Mbps
+
+PING fungsi untuk memanggil, mengetahui aktif atau tidak
+
+192.168.1.2/16 Classles
+2555.255.0.0
+
